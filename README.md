@@ -1,2 +1,2 @@
 # ArrayPointer_two-dimensional
-Working with pointers in two-dimensional arrays
+Here we will try to demonstrate how C / C ++ works with two-dimensional pointers and arrays "in a hidden way".
